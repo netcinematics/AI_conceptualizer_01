@@ -211,3 +211,5 @@ AXIOMZ: [ The following are the 10 foundational concepts of universal knowledge 
 > Initiating [AXIOMZ_PROMPTZ] extraction for: "AXIOMZ"...
 > [SYS] Stream started. Wait time: 0.3s.
  Chaos, Consciousness, Entropy, Information, Unity, Causality, Relativity, Evolution, Ethics, Transcendence
+>
+> 10 foundational concepts of universal knowledge: Consciousness, Reality, Time, Space, Matter, Energy, Information, Causality, Evolution, Harmony
